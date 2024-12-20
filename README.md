@@ -6,6 +6,8 @@
 
 Yes, the Titanic Dataset is a ginormous cliche in the data science world.  However, it has earned that cliche status by being a dataset (and story!) that is well-understood by most everyone.  As such, it is an excellent dataset to use to illustrate my ML Approach. 
 
+Each step of the Metholodoy below as its own .ipynb file with my approach.  Please take these in order.  Each file includes my code with occasional comments about my process and learnings.  
+
 Decision trees are one of my favorite ML models to use.  I find that they work well for a majority of predictive business problems regardless of the industry.  Also, their "if this than that" path through the tree makes intuitive sense to individuals of all levels of ML literacy, making it easy to explain the model to stakeholders. 
 
 
