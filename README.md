@@ -18,11 +18,11 @@ Decision trees are one of my all-time favorite ML models to use.  They work very
 
 1. Exploratory Data Analysis (EDA): Profile dataset, Visualize data, Visualize feature interactions
    
-2. Decision Tree Build: Engineer features, Replace null values, Add calculated fields, Encode features, Build data frames, Tune model, Visualize model, Evaluate Bias and Variance
+2. Decision Tree Build: Engineer features, Replace null values, Impute missing ages, Add calculated fields, Encode features, Build data frames, Tune model, Visualize model, Evaluate Bias and Variance
 
-3. ... 
+3. Random Forest Build: 
 
-4. ...
+4. Compare Models: Select best
 
 
 ### Skills:
