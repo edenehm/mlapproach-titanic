@@ -14,7 +14,7 @@ Decision trees are one of my all-time favorite ML models to use.  They work very
 Build a Decision Tree and Random Forest model to predict the likelihood of "Died or Survived" on the Titanic. Compare the strength of the two models and select which is best.       
 
 
-### Methodology: 
+### Methodology & Skills: 
 
 1. Exploratory Data Analysis (EDA): Profile dataset, Visualize data, Visualize feature interactions
 
@@ -24,26 +24,16 @@ Example EDA Visualizations:
 
 <img src="AgeCount.png" width="600" height="400">
    
-3. Decision Tree Build: Engineer features, Replace null values, Impute missing ages, Add calculated fields, Encode features, Build data frames, Tune model, Visualize model, Evaluate Bias and Variance
+2. Decision Tree Build: Engineer features, Replace null values, Impute missing ages, Add calculated fields, Encode features, Build data frames, Tune model, Visualize model, Evaluate Bias and Variance
 
 <img src="DecisionTree.png" width="600" height="400">
 
-5. Random Forest Build: 
+3. Random Forest Build: Engineer features, Encode features, Build data frames, Feature importance, Feature cleanup, Train model, Best hyperparameters, Evaluate OOB, Test model, Export CSV 
 
-6. Compare Models: Select best
-
-
-### Skills:
-
-Python: See the Methodology above for specific examples of the Python skills used.  
-
-
-### Result: 
-
-...
+4. Compare Models: Select best
 
 
 ### In Repository: 
 Titanic Test CSV file
 Titanic Train CSV file
-.pynb files for each Metholodgy listed above
+.pynb files for each Methodology #1-3 listed above
