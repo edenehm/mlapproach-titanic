@@ -45,6 +45,9 @@ Confusion Matrix:
 
 ### In Repository: 
 Titanic Test CSV file
+
 Titanic Train CSV file
+
 .pynb files for each Methodology #1-3 listed above
+
 Screenshots of selected visuals 
