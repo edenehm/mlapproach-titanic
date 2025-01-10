@@ -16,7 +16,7 @@ Build a Decision Tree and Random Forest model to predict the likelihood of "Died
 
 ### Methodology & Skills: 
 
-1. Exploratory Data Analysis (EDA): Profile dataset, Visualize data, Visualize feature interactions
+#### 1. Exploratory Data Analysis (EDA): Profile dataset, Visualize data, Visualize feature interactions
 
 Example EDA Visualizations:
 
@@ -24,26 +24,27 @@ Example EDA Visualizations:
 
 <img src="AgeCount.png" width="600" height="400">
    
-2. Decision Tree Build: Engineer features, Replace null values, Impute missing ages, Add calculated fields, Encode features, Build data frames, Tune model, Visualize model, Evaluate Bias and Variance
+#### 2. Decision Tree Build: Engineer features, Replace null values, Impute missing ages, Add calculated fields, Encode features, Build data frames, Tune model, Visualize model, Evaluate Bias and Variance
 
 Decision Tree: 
 
 <img src="DecisionTree.png" width="600" height="400">
 
-3. Random Forest Build: Engineer features, Encode features, Build data frames, Feature importance, Feature cleanup, Train model, Best hyperparameters, Evaluate OOB, Test model, Export CSV 
+#### 3. Random Forest Build: Engineer features, Encode features, Build data frames, Feature importance, Feature cleanup, Train model, Best hyperparameters, Evaluate OOB, Test model, Export CSV 
 
 Top 15 Features: 
 
-<img src="TopFeatures.png" width="600" height="400">
+<img src="TopFeatures.png" width="300" height="400">
 
 Confusion Matrix: 
 
 <img src="ConfusionMatrix.png" width="600" height="400">
 
-4. Compare Models: Select best
+#### 4. Compare Models: Which model is better is a bit of a wash.  The Decision Tree has slightly higher Accuracy, but the Random Forest has a slightly lower Variance.  Personally, I would go with the Decision Tree due to the higher accuracy and more intuitive nature of how the model operates.    
 
 
 ### In Repository: 
 Titanic Test CSV file
 Titanic Train CSV file
 .pynb files for each Methodology #1-3 listed above
+Screenshots of selected visuals 
