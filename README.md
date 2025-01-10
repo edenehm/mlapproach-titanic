@@ -26,9 +26,19 @@ Example EDA Visualizations:
    
 2. Decision Tree Build: Engineer features, Replace null values, Impute missing ages, Add calculated fields, Encode features, Build data frames, Tune model, Visualize model, Evaluate Bias and Variance
 
+Decision Tree: 
+
 <img src="DecisionTree.png" width="600" height="400">
 
 3. Random Forest Build: Engineer features, Encode features, Build data frames, Feature importance, Feature cleanup, Train model, Best hyperparameters, Evaluate OOB, Test model, Export CSV 
+
+Top 15 Features: 
+
+<img src="TopFeatures.png" width="600" height="400">
+
+Confusion Matrix: 
+
+<img src="ConfusionMatrix.png" width="600" height="400">
 
 4. Compare Models: Select best
 
